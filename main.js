@@ -4,7 +4,11 @@ async function displayLaunches() {
     const launchList = document.getElementById('spaceX-launches')
 
     for (const launch of response.data) {
-        console.log(launch)
+        const listItem = document.createElement('li')
+
+        listItem.textContent = `${launch.date_local} - Launching ${launch.name}, details of flight: ${launch.details}`;
+
+        console.log(listItem);
     }
 }
 

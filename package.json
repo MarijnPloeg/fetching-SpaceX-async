@@ -1,0 +1,22 @@
+{
+  "name": "fetching_spacex_apidata",
+  "version": "1.0.0",
+  "description": "fetching data from a public api",
+  "main": "main.js",
+  "scripts": {
+    "test": "no test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarijnPloeg/fetching-SpaceX-async.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "marijn ploeg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarijnPloeg/fetching-SpaceX-async/issues"
+  },
+  "homepage": "https://github.com/MarijnPloeg/fetching-SpaceX-async#readme"
+}

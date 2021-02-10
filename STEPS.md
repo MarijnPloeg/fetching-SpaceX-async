@@ -2,10 +2,10 @@
 
 - [x] JS & HTML files maken
 - [x] JavaScript script file linken
-- [ ] NPM init
-- [ ] git init
-- [ ] .gitignore maken
-- [ ] Axios installeren
+- [x] NPM init
+- [x] git init
+- [x] .gitignore maken
+- [x] Axios installeren
 - [ ] Axios script linken
 - [ ] Een async functie maken en aanroepen
 - [ ] Request maken met axios

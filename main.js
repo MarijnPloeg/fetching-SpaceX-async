@@ -9,6 +9,8 @@ async function displayLaunches() {
         listItem.textContent = `${launch.date_local} - Launching ${launch.name}, details of flight: ${launch.details}`;
 
         console.log(listItem);
+
+        launchList.appendChild(listItem);
     }
 }
 
